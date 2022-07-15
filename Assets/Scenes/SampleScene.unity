@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 1751.2773, g: 1821.8574, b: 1985.5508, a: 1}
+  m_IndirectSpecularColor: {r: 1751.6436, g: 1822.1504, b: 1985.7227, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -662,7 +662,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1103982196}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: -- Scene Stuff --
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -774,7 +774,7 @@ MonoBehaviour:
         renderQueueType: 10
         layerMask:
           serializedVersion: 2
-          m_Bits: 128
+          m_Bits: 384
         sortingCriteria: 59
         overrideMaterial: {fileID: 0}
         overrideMaterialPassIndex: 0
@@ -907,7 +907,7 @@ GameObject:
   - component: {fileID: 2101059897}
   - component: {fileID: 2101059896}
   - component: {fileID: 2101059895}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: Sphere_LitSSS
   m_TagString: Untagged
   m_Icon: {fileID: 0}
